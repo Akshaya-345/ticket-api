@@ -1,0 +1,112 @@
+{
+    "tickets": [
+      {
+        "email": "akshayab@gmail.com",
+        "subject": "Damaged product",
+        "status": "closed",
+        "priority": "high",
+        "resolved": "open",
+        "date": "2024-07-14",
+        "assignedTo": "Raj",
+        "assignTo": "Ashrith",
+        "sendThrough": "whatsapp",
+        "junk": "no",
+        "id": "ba15"
+      },
+      {
+        "email": "revanth@gmail.com",
+        "subject": "Damaged",
+        "status": "closed",
+        "priority": "low",
+        "resolved": "open",
+        "date": "2024-07-18",
+        "assignedTo": "Kishore",
+        "assignTo": "Raj",
+        "sendThrough": "facebook",
+        "id": "43ce"
+      },
+      {
+        "email": "amrutha@gmail.com",
+        "subject": "asdfg",
+        "status": "open",
+        "priority": "medium",
+        "date": "2024-05-31",
+        "assignTo": "Kishore",
+        "assignedTo": "unassigned",
+        "sendThrough": "call",
+        "completedBy": "Akshaya",
+        "junk": "no",
+        "id": "f948"
+      },
+      {
+        "email": "mohana@gmail.com",
+        "subject": "No product",
+        "status": "pending",
+        "priority": "low",
+        "date": "2023-01-10",
+        "assignedTo": "Jane Smith",
+        "assignTo": "Suhas",
+        "sendThrough": "instagram",
+        "id": "a8f8"
+      },
+      {
+        "email": "faran@gmail.com",
+        "subject": "Mobile issue",
+        "status": "open",
+        "priority": "high",
+        "date": "2023-11-27",
+        "assignedTo": "Ashrith",
+        "sendThrough": "twitter",
+        "id": "8657"
+      },
+      {
+        "email": "kiran@gmail.com",
+        "subject": "asdh",
+        "status": "open",
+        "priority": "medium",
+        "date": "2023-12-12",
+        "assignedTo": "Kishore",
+        "sendThrough": "email",
+        "id": "d31e"
+      },
+      {
+        "email": "bhavigna@gmail.com",
+        "subject": "asd",
+        "status": "open",
+        "priority": "high",
+        "date": "2023-02-16",
+        "assignedTo": "Akshaya",
+        "sendThrough": "message",
+        "createdBy": "Kishore",
+        "completedBy": "None",
+        "junk": "yes",
+        "id": "3426"
+      },
+      {
+        "email": "kishore@gmail.com",
+        "subject": "App Not working",
+        "status": "closed",
+        "priority": "medium",
+        "date": "2024-07-18",
+        "assignedTo": "Kishore",
+        "junk": "no",
+        "sendThrough": "message",
+        "createdBy": "user1",
+        "completedBy": "Ashrith",
+        "id": "kUFrEtL"
+      },
+      {
+        "email": "akkuu@gmail.com",
+        "subject": "Kishoree",
+        "status": "closed",
+        "priority": "high",
+        "date": "2024-07-18",
+        "assignedTo": "Ashrith",
+        "junk": "no",
+        "sendThrough": "instagram",
+        "createdBy": "user1",
+        "completedBy": "Kishore",
+        "id": "Sd5Vgod"
+      }
+    ]
+  }
